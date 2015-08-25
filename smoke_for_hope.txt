@@ -79,19 +79,19 @@
 
 @ TEAM COMPS
 
-.balanced
+Balanced:
     1. Gyrocopter
     2. Shadow Fiend
     3. Clockwerk
     *. Bane / Omniknight
 
-.snowball-fuck-magic
+Snowball, Fuck-Magic:
     1. Anti-Mage
     2. Leshrac
     3. Clockwerk
     *. Lion / Dazzle
 
-.void-strat
+Void Strat:
     1. Faceless Void
     2. Leshrac
     3. Centaur Warrunner
@@ -99,7 +99,7 @@
            Witch Doctor / Earthshaker
            Omniknight / Skywrath Mage
 
-.wombo-combo
+Wombo Combo:
     1. Phantom Assassin
     2. Leshrac or
            Storm Spirit
@@ -111,12 +111,12 @@
 
 @ COMBINATIONS
 
-picks:
+Picks:
     Winter Wyvern / Dark Seer
     Faceless Void / Witch Doctor
     Lina / Earthshaker
-        note: es should (smoke) gank mid,
-              fissure + l.s.a. is dope.
+        __NOTE__: Earthshaker should (smoke) gank mid,
+            Fissure + Light Strike Array is dope.
 
-bans:
+Bans:
     Huskar / Dazzle or Oracle
