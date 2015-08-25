@@ -1,0 +1,122 @@
+@ HERO POOL
+
+1:
+    Phantom Assassin
+    Faceless Void
+    Anti-Mage
+    Gyrocopter
+    Slark
+    Chaos Knight
+    Phantom Lancer
+    Weaver
+    Luna
+
+2:
+    Viper
+    Storm Spirit
+    Leshrac
+    Lina
+    Templar Assassin
+    Queen of Pain
+    Shadow Fiend
+    Brewmaster
+    Puck
+    Invoker
+    Zeus
+    Silencer
+    Windrunner
+
+3:
+    Centaur Warrunner
+    Dark Seer
+    Timbersaw
+    Undying
+    Clockwerk
+    Axe
+    Bristleback
+    Faceless Void
+    Batrider
+    Spirit Breaker
+    Earthshaker
+    Bounty Hunter
+    Tidehunter
+    Zeus
+    Phoenix
+    Windrunner
+    Queen of Pain
+
+4:
+    Witch Doctor
+    Lion
+    Crystal Maiden
+    Silencer
+    Disruptor
+    Warlock
+    Omniknight
+    Bane
+    Spirit Breaker
+    Bounty Hunter
+    Earthshaker
+    Ogre Magi
+    Rubick
+    Enigma
+    Nature's Prophet
+
+5:
+    Dazzle
+    Earthshaker
+    Lion
+    Crystal Maiden
+    Skywrath Mage
+    Witch Doctor
+    Winter Wyvern
+    Vengeful Spirit
+    Omniknight
+    Ogre Magi
+    Rubick
+
+
+
+@ TEAM COMPS
+
+.balanced
+    1. Gyrocopter
+    2. Shadow Fiend
+    3. Clockwerk
+    *. Bane / Omniknight
+
+.snowball-fuck-magic
+    1. Anti-Mage
+    2. Leshrac
+    3. Clockwerk
+    *. Lion / Dazzle
+
+.void-strat
+    1. Faceless Void
+    2. Leshrac
+    3. Centaur Warrunner
+    *. Disruptor / Dazzle or 
+           Witch Doctor / Earthshaker
+           Omniknight / Skywrath Mage
+
+.wombo-combo
+    1. Phantom Assassin
+    2. Leshrac or
+           Storm Spirit
+           Shadow Fiend
+    3. Dark Seer
+    *. Disruptor / Winter Wyvern
+
+
+
+@ COMBINATIONS
+
+picks:
+    Winter Wyvern / Dark Seer
+    Faceless Void / Witch Doctor
+    Lina / Earthshaker
+        note: es should (smoke) gank mid,
+              fissure + l.s.a. is dope.
+
+bans:
+    Huskar / Dazzle or Oracle
