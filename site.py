@@ -38,5 +38,9 @@ def logout():
     flash('You were logged out')
     return redirect(url_for('home'))
 
+@app.route('/hero_pool')
+def hero_pool():
+    return render_template('hero_pool.html')
+
 if __name__ == '__main__':
     app.run()

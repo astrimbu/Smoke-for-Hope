@@ -2,12 +2,12 @@
 {% block body %}
     <ul class=content>
     {% if session.logged_in %}
-        <li><em>Hero Pool</em>
-        <li><em>Compositions</em>
-        <li><em>Combinations</em>
-        <li><em>Counters</em>
-        <li><em>Draft Strategies</em>
-        <li><em>Practice Scheduler</em>
+        <li><em><a href="{{ url_for('hero_pool') }}">Hero Pool</a></em>
+        <li><em><a href="{{ url_for('hero_pool') }}">Compositions</a></em>
+        <li><em><a href="{{ url_for('hero_pool') }}">Combinations</a></em>
+        <li><em><a href="{{ url_for('hero_pool') }}">Counters</a></em>
+        <li><em><a href="{{ url_for('hero_pool') }}">Draft Strategies</a></em>
+        <li><em><a href="{{ url_for('hero_pool') }}">Practice Scheduler</a></em>
     {% endif %}
     </ul>
 {% endblock %}
