@@ -1,3 +1,14 @@
+@ INDEX
+
+Ctrl + F to jump to a section:
+    @ HERO POOL
+    @ COMPOSITIONS
+    @ COMBINATIONS
+    @ COUNTERS
+    @ DRAFT STRATEGIES
+
+
+
 @ HERO POOL
 
 1:
@@ -112,11 +123,29 @@ Wombo Combo:
 @ COMBINATIONS
 
 Picks:
-    Winter Wyvern / Dark Seer
-    Faceless Void / Witch Doctor
+    Winter Wyvern | Dark Seer
+    Faceless Void | Witch Doctor
     Lina / Earthshaker
         __NOTE__: Earthshaker should (smoke) gank mid,
             Fissure + Light Strike Array is dope.
 
 Bans:
     Huskar / Dazzle or Oracle
+
+
+
+@ COUNTERS
+
+                Hero | Countered By
+
+        Storm Spirit | Anti-Mage
+              Dazzle | Axe
+          Gyrocopter | Lina
+    Templar Assassin | Viper
+             Leshrac | Clockwerk
+
+
+
+@ DRAFT STRATEGIES
+
+
