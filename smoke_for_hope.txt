@@ -125,6 +125,12 @@ M A N A B O Y S:
            Undying
     *. Silencer / Crystal Maiden
 
+Glass Cannon:
+    1. Gyrocopter
+    2. Shadow Fiend
+    3. Clockwerk
+    *. Lina / Winter Wyvern
+
 
 
 @ COMBINATIONS
@@ -134,7 +140,7 @@ M A N A B O Y S:
                 Lina + Earthshaker
               Huskar + Dazzle or Oracle
 
-Lina + Earthshaker, Earthshaker should (smoke) gank mid,
+Lina + Earthshaker: Earthshaker should (smoke) gank mid,
     Fissure + Light Strike Array is dope.
 
 
@@ -153,4 +159,4 @@ Lina + Earthshaker, Earthshaker should (smoke) gank mid,
 
 @ DRAFT STRATEGIES
 
-
+Pick Lina early to disguise a Storm Spirit pick for mid 
