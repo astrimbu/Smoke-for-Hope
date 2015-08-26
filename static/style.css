@@ -11,13 +11,11 @@ input           { background: #272727; border: 0; padding: 0.3em;
                   color: #d9d9d9; font-family: 'courier new'; }
 input#button    { background: #a9cf54; color: #fff; padding: 0.3em; }
 
+.content        { list-style: none; margin: 0; padding: 0; }
+.content li     { margin: 0.8em 1.2em; }
+.content li h2  { margin-left: -1em; }
 .page           { margin: 2em auto; width: 35em;
                   padding: 0.8em; }
-.entries        { list-style: none; margin: 0; padding: 0; }
-.entries li     { margin: 0.8em 1.2em; }
-.entries li h2  { margin-left: -1em; }
-.add-entry      { font-size: 0.9em; border-bottom: 1px solid #a9cf54; }
-.add-entry dl   { font-weight: bold; }
 .metanav        { text-align: right; font-size: 0.8em; padding: 0.3em;
                   margin-bottom: 1em; background: #272727; }
 .flash          { background: #a9cf54; padding: 0.3em; 
