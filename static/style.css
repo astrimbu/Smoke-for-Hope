@@ -9,9 +9,12 @@ textarea        { background: #272727; border: 0; padding: 0.3em;
                   color: #d9d9d9; font-family: 'courier new'; }
 input           { background: #272727; border: 0; padding: 0.3em;
                   color: #d9d9d9; font-family: 'courier new'; }
-input#button    { background: #a9cf54; color: #fff; padding: 0.3em; }
 td              { vertical-align: top; }
+table           { border-spacing: 10px; }
+br              { line-height: 150%; }
 
+.button         { background: #a9cf54; color: #fff; padding: 0.3em; }
+.header         { text-align: center; font-size: 1.2em; }
 .content        { list-style: none; margin: 0; padding: 0; }
 .content li     { margin: 0.8em 1.2em; }
 .content li h2  { margin-left: -1em; }
