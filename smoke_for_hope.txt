@@ -138,6 +138,11 @@ Dual Lanes:
     3. Undying
     *. Tusk / Crystal Maiden
 
+Locked Down:
+    1. Phantom Lancer
+    2. Leshrac
+    3. Centaur Warrunner
+    *. Earthshaker / Crystal Maiden
 
 
 @ COMBINATIONS
